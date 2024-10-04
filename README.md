@@ -4,7 +4,7 @@
 
 💉I'm particularly interested in using mathematical modeling to quantify the effect of routine childhood vaccination and the measuring the implications of interventions on antimicrobial resistance. 
 
-🌍 I've spent the last year and a half acting as the project lead on the Analysis and Mapping of Policies for Emerging Infectious Diseases (https://ampeid.org/) under co-PIs Dr. Rebecca Katz, Dr. Colin Carlson, and Dr. Ellie Graeden
+🌍 I've spent the last year and a half acting as the project lead on the [Analysis and Mapping of Policies for Emerging Infectious Diseases](https://ampeid.org/) under co-PIs Dr. Rebecca Katz, Dr. Colin Carlson, and Dr. Ellie Graeden
 <!--
 **cweets/cweets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
