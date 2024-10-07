@@ -2,7 +2,7 @@
 
 🦠 I'm a second year graduate student at Georgetown University studying Epidemiological Modeling and Science Policy in the Global Infectious Disease program at Georgetown University. 
 
-💉I'm particularly interested in using mathematical modeling to quantify the effect of routine childhood vaccination and the measuring the implications of interventions on antimicrobial resistance. 
+💉I'm particularly interested in using mathematical modeling to quantify the effect of routine childhood vaccination and to measure the implications of interventions on antimicrobial resistance. 
 
 🌍 I've spent the last year and a half acting as the project lead on the [Analysis and Mapping of Policies for Emerging Infectious Diseases](https://ampeid.org/) under co-PIs Dr. Rebecca Katz, Dr. Colin Carlson, and Dr. Ellie Graeden
 <!--
