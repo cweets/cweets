@@ -1,10 +1,10 @@
 ## Hi! I'm Ciara 🦠
 
-🦠 I'm a second year graduate student at Georgetown University studying Epidemiological Modeling and Science Policy in the Global Infectious Disease program at Georgetown University. 
+🦠 I'm a Junior Scientist at Georgetown University. I work jointly at the [Medical Center](https://ghss.georgetown.edu/) and in the [Biology Department](https://www.bansallab.com/) studying science policy and mathematical modeling of disease transmission. 
 
-💉I'm particularly interested in using mathematical modeling to quantify the effect of routine childhood vaccination and to measure the implications of interventions on antimicrobial resistance. 
+💉🌳 🌍  My recent work has focused on childhood vaccination, vaccine preventable diseases, antimicrobial resistance, and planetary change. I'm particularly interested in using mathematical modeling to quantify the impact of health intervention policies.  
 
-🌍 I've spent the last year and a half acting as the project lead on the [Analysis and Mapping of Policies for Emerging Infectious Diseases](https://ampeid.org/) under co-PIs Dr. Rebecca Katz, Dr. Colin Carlson, and Dr. Ellie Graeden
+👀 On my page you will find multiple repositories dedicated to analyses from [Analysis and Mapping of Policies for Emerging Infectious Diseases](https://ampeid.org/) , a project that was lead by co-PIs Dr. Rebecca Katz, Dr. Colin Carlson, and Dr. Ellie Graeden and work for my Master's degree courses from the Global Infectious Diseases program. 
 <!--
 **cweets/cweets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
